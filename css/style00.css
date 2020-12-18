@@ -138,7 +138,7 @@ p {
     text-align: center;
     list-style-type:none;
     text-decoration:none;
-    color:#808080;/*アイコン＆文字の色*/
+    color:white;/*アイコン＆文字の色*/
   }
   
   /* アイコンがクリックされたらメニューを表示 */
